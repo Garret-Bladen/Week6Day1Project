@@ -1,0 +1,36 @@
+body {
+    background-color: #eee;
+}
+.inStock{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    font-family: Helvetica;
+    justify-content: space-between;
+    background-color: white;
+}
+#darkmodeButton {
+    padding:10px;
+    font-family: Helvetica;
+    border: 1px solid;
+    max-width: fit-content;
+    padding: 10px;
+    margin: 0 0 0 410px;
+}
+.darkMode {
+    background-color: #444;
+}
+.darkMode2 {
+    background-color: #111;
+    color: white;
+}
+h1 {
+    margin: 0 0 0 410px;
+    font-weight: lighter;
+}
+#h1h1 {
+    margin-top: -20px;
+}
+#contentContainer {
+    margin: 0 400px 0 400px;
+}
